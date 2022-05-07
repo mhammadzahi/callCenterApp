@@ -1,0 +1,157 @@
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.exe
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.deps.json
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.runtimeconfig.json
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.AssemblyReference.cache
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.Form1.resources
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.GenerateResource.cache
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfoInputs.cache
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfo.vb
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CoreCompileInputs.cache
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CopyComplete
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\refint\callCenterApp.dll
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.genruntimeconfig.cache
+C:\Users\zahi\source\repos\callCenterApp\callCenterApp\obj\Debug\net6.0-windows\ref\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.exe
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.deps.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.runtimeconfig.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.AssemblyReference.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.Form1.resources
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.GenerateResource.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfoInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfo.vb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CoreCompileInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CopyComplete
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\refint\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.genruntimeconfig.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Call-center\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\ref\callCenterApp.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.exe
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.deps.json
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.runtimeconfig.json
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.AssemblyReference.cache
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.Form1.resources
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.GenerateResource.cache
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfoInputs.cache
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfo.vb
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CoreCompileInputs.cache
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CopyComplete
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\refint\callCenterApp.dll
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.genruntimeconfig.cache
+C:\Users\zahi\source\repos\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\ref\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.exe
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.deps.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.runtimeconfig.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.AssemblyReference.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.Form1.resources
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.GenerateResource.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfoInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfo.vb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CoreCompileInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CopyComplete
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\refint\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.genruntimeconfig.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Projet\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\ref\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.exe
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.deps.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.runtimeconfig.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.AssemblyReference.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.Form1.resources
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.GenerateResource.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfoInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfo.vb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CoreCompileInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CopyComplete
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\refint\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.genruntimeconfig.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Nouveau dossier\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\ref\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.exe
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.deps.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.runtimeconfig.json
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.AssemblyReference.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.Form1.resources
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.GenerateResource.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfoInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.AssemblyInfo.vb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CoreCompileInputs.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.vbproj.CopyComplete
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\refint\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.pdb
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\callCenterApp.genruntimeconfig.cache
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\ref\callCenterApp.dll
+C:\Users\departement-techniqu\OneDrive - Imperial pneu\Bureau\Application\Application-PointS\callCenterApp\obj\Debug\net6.0-windows\CallCenterApp.Resources.resources
